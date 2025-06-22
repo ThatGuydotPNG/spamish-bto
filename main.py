@@ -107,4 +107,4 @@ async def comandosespañoles(ctx):
                  "$bienvenido - Obtener un mensaje de bienvenida\n"
                  "$hola - Saludar al bot\n")
 
-bot.run("MTM4MjgzMDYxNTk4ODI3MzIwMg.GnSfSH.TFBjPojSn4G_MbAkHLaXTkn9TtrRl7FHgPmpAI")
+bot.run("")
